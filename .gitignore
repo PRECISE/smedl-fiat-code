@@ -1,0 +1,11 @@
+*.hi
+*.vo
+*.aux
+*.glob
+*.v.d
+*.o
+/fiat-smedl/atifmon.hs
+/fiat-smedl/SMEDL.hs
+/fiat-smedl/Makefile.coq
+/fiat-smedl/Makefile.coq.conf
+/fiat-smedl/dist/

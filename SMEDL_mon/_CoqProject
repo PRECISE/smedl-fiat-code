@@ -1,0 +1,15 @@
+-R . Top
+-R ../fiat/src Fiat
+smedlDef/semantic_rules.v
+smedlDef/SMEDL_helper.v
+smedlDef/SmedlAST_submission.v
+smedlDef/smedl_common_lemmas.v
+wellFormScenario.v
+deter_definition.v
+aux_monitor.v
+wellForm.v
+Refinement.v
+determinism.v
+well_decision_proc.v
+Monitor_oni.v
+Extract.v
